@@ -3,12 +3,22 @@
 
 🐧 Linux-first (Arch/Fedora)  
 🔐 Privacy & security enthusiast  
-🧠 Learning networking, servers, and Rust  
 ⚙️ Self-hosting, automation, and infrastructure  
 🎮 Gamer when time allows  
 
-Currently focused on building strong fundamentals in networking, servers, and backend development.
-[![My Skills](https://skillicons.dev/icons?i=rust,git,linux,arch,debian)]()
+🚧 Currently building
+- Small CLI tools in Rust
+- Homelab experiments with Docker and WireGuard
+- Strengthening Linux, networking, and backend fundamentals
+
+🛠️ Tech stack
+- Languages: Rust, Bash (learning)
+- OS: Arch Linux
+- Tools: Git, Docker, WireGuard, systemd
+- Focus areas: Networking, security, self-hosting
+
+🎯 Goal
+Become a junior sysadmin / backend developer focused on Linux infrastructure and secure systems.
 
 <!--
 **danielnetlab/danielnetlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
