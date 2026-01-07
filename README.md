@@ -8,7 +8,7 @@
 🎮 Gamer when time allows  
 
 Currently focused on building strong fundamentals in networking, servers, and backend development.
-[![My Skills](https://skillicons.dev/icons?i=rust,python,c,bash,linux,arch)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,python,c,bash,linux,arch,debian)]()
 
 <!--
 **danielnetlab/danielnetlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
