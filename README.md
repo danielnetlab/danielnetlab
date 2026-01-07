@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 **I'm Daniel** — sysadmin-in-training and backend developer.
 
 🐧 Linux-first (Arch/Fedora)  
