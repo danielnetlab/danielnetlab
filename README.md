@@ -26,7 +26,6 @@ Become a junior sysadmin / backend developer focused on Linux infrastructure and
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=white)
-![](https://komarev.com/ghpvc/?username=danielnetlab&style=flat&color=blue)
 <!--
 **danielnetlab/danielnetlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
