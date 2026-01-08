@@ -10,13 +10,13 @@
 
 🚧 Currently building
 - Small CLI tools in Rust
-- Homelab experiments with Docker and WireGuard
+- Homelab experiments with Podman and WireGuard
 - Strengthening Linux, networking, and backend fundamentals
 
 🛠️ Core stack
 - Languages: Rust, Bash (in progress)
 - OS: Arch Linux
-- Tools: Git, Docker, WireGuard, systemd
+- Tools: Git, Podman, WireGuard, systemd
 - Focus areas: Networking, security, self-hosting
 
 🎯 Goal
@@ -24,7 +24,7 @@ Become a junior sysadmin / backend developer focused on Linux infrastructure and
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=white)
 <!--
 **danielnetlab/danielnetlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
