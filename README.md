@@ -15,7 +15,7 @@
 
 🛠️ Core stack
 - Languages: Rust, Bash (in progress)
-- OS: Arch Linux
+- OS: NixOS
 - Tools: Git, Podman, WireGuard, systemd
 - Focus areas: Networking, security, self-hosting
 
@@ -23,6 +23,7 @@
 Become a junior sysadmin / backend developer focused on Linux infrastructure and secure systems.
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![NixOS](https://img.shields.io/badge/NixOS-1793D1?logo=nixos&logoColor=white)]([https://archlinux.org/](https://nixos.org/))
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)](https://podman.io/)
 [![WireGuard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=white)](https://www.wireguard.com/)
