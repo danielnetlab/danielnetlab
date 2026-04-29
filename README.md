@@ -1,43 +1,28 @@
 ## Hi there 👋
-**I'm Daniel** — sysadmin-in-training and backend developer.
+**Soy Daniel** — futuro programador backend.
 
-📍 16-year-old student focused on Linux systems, networking, and infrastructure
+📍 Estudiante de 16 años centrado en sistemas Linux, redes e infraestructura.
 
-🐧 Linux-first (Arch Linux)  
-🔐 Privacy & security enthusiast  
-⚙️ Self-hosting, automation, and infrastructure  
-🎮 Gamer when time allows  
+🐧 Linux como sistema principal — Arch Linux
+🔐 Entusiasta de la privacidad y la seguridad
+⚙️ Self-hosting, automatización e infraestructura
+🎮 Gamer cuando el tiempo lo permite
 
-🚧 Currently building
-- Small CLI tools in Rust
-- Homelab experiments with Podman and WireGuard
-- Strengthening Linux, networking, and backend fundamentals
+🚧 Actualmente construyendo
 
-🛠️ Core stack
-- Languages: Rust, Bash (in progress)
-- OS: NixOS
-- Tools: Git, Podman, WireGuard, systemd
-- Focus areas: Networking, security, self-hosting
+- isonavax
+
+🛠️ Stack principal
+
+- Lenguajes: Python, Bash — en progreso
+- Sistema operativo: Arch Linux
+- Herramientas: Git, Podman, WireGuard, systemd
+- Áreas de enfoque: redes, seguridad, self-hosting
 
 🎯 Goal
-Become a junior sysadmin / backend developer focused on Linux infrastructure and secure systems.
+Convertirme en un administrador de sistemas junior / desarrollador backend enfocado en infraestructura Linux y sistemas seguros.
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
 [![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io/)
 [![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
-
-<!--
-**danielnetlab/danielnetlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
