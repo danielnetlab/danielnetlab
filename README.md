@@ -1,7 +1,7 @@
 ## Hi there 👋
 **I'm Daniel** — sysadmin-in-training and backend developer.
 
-📍 15-year-old student focused on Linux systems, networking, and infrastructure
+📍 16-year-old student focused on Linux systems, networking, and infrastructure
 
 🐧 Linux-first (Arch Linux)  
 🔐 Privacy & security enthusiast  
